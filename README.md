@@ -5,7 +5,7 @@
 ### Dependencias
 
 ```bash
-sudo apt install mysql-server
+sudo apt-get install mysql-server
 
 pip3 install mysql-connector-python
 
